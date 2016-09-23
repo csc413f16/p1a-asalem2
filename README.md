@@ -1,8 +1,9 @@
-Name:
+Name: Ahmed M. Salem
 
-Compilation and Run Successful:
+Compilation and Run Successful: No, the message I received was: Error:Cause: failed to find target with hash string 'android-24' in: C:\Users\asale_000\AppData\Local\Android\sdk
+                                                                <a href="openAndroidSdkManager">Open Android SDK Manager</a>
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: No.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
